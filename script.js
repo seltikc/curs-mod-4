@@ -1,4 +1,4 @@
 'use strict';
 
-const startGame = window.start();
+const startGame = () => window.start();
 startGame();
